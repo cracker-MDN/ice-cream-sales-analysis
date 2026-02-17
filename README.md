@@ -230,9 +230,9 @@ ice-cream-sales-analysis/
 
 ## Author
 
-[Your Name]
+[MD Noornabi]
 
-[LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url)
+[LinkedIn](https://www.linkedin.com/in/md-noornabi25/) | [Portfolio](https://github.com/cracker-MDN)
 
 ---
 
